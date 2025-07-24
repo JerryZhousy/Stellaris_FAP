@@ -1219,11 +1219,11 @@ decision_arcology_project_relic = {
 	owned_planets_only = yes
 	icon = decision_arcology_project
 
-	enactment_time = 3600
+	enactment_time = 360
 	resources = {
 		category = decisions
 		cost = {
-			influence = 200
+			influence = 75
 			minerals = 20000
 		}
 	}
